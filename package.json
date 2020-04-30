@@ -22,7 +22,7 @@
     "@syncfusion/ej2-angular-schedule": "^17.3.28",
     "@syncfusion/ej2-material-theme": "~17.3.27",
     "fullcalendar": "^3.10.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
